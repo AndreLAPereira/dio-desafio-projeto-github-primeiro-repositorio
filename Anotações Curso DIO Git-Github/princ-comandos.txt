@@ -1,0 +1,12 @@
+Principais Comandos
+
+GIT INIT = inicialia o versionamento na pasta onde se está
+GIT CLONE = puxa o projeto a partir de um servidor remoto
+GIT ADD . ou ADD <<file-name>> = inclui arquivos ou pastas no transito do commit
+GIT COMMIT -M "mensagem do que foi feito" = salva o que deve ser enviado em um conjunto de alterações
+GIT PUSH = envia o seu conjunto de alterações
+GIT PULL = substitui o seu conteúdo local pelo do servidor
+GIT MERGE = faz a interseção das alterações entre local e servidor remoto
+GIT STATUS = compara seu projeto local com o remoto
+GIT LOG = exibe o controle de alteraões
+GIT BRANCH = exibe qual é a branch ativa e as disponíveis
